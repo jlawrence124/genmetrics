@@ -1,0 +1,7 @@
+{
+	"prettier.useTabs": true,
+	"typescript.tsdk": "node_modules\\typescript\\lib",
+	"typescript.enablePromptUseWorkspaceTsdk": true,
+	"prettier.tabWidth": 4,
+	"editor.indentSize": "tabSize"
+}
